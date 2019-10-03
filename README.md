@@ -18,5 +18,5 @@ Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses a
 
 ## Check our Analysis
 
-- You can check an [HTML view of our data wrangling approach here](./wrangle_act.html).
-- Check the [Udacity grade report on our data wrangling efforts](./Udacity%20project%20review.pdf) in PDF
+- You can check an [HTML view of our data wrangling approach here](https://alexmpaz.github.io/data-wrangling/wrangle_act.html).
+- Check the [Udacity grade report on our data wrangling efforts](https://alexmpaz.github.io/data-wrangling/Udacity%20project%20review.pdf) in PDF
