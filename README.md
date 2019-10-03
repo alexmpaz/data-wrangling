@@ -15,3 +15,8 @@ Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses a
 - Store the clean DataFrame(s) in a CSV file with the main one named twitter_archive_master.csv
 - Create a 300-600 word written report called wrangle_report.pdf that briefly describes your wrangling efforts. This is to be framed as an internal document
 - Create a 250-word-minimum written report called act_report.pdf that communicates the insights and displays the visualization(s) produced from your wrangled data. This is to be framed as an external document, like a blog post or magazine article, for example.
+
+## Check our Analysis
+
+- You can check an [HTML view of our data wrangling approach here](./wrangle_act.html).
+- Check the [Udacity grade report on our data wrangling efforts](./Udacity%20project%20review.pdf) in PDF
